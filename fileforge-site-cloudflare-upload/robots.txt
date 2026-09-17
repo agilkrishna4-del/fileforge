@@ -1,4 +1,0 @@
-User-Agent: *
-Allow: /
-
-Sitemap: https://fileforge.pages.dev/sitemap.xml

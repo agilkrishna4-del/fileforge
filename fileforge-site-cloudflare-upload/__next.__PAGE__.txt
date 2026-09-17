@@ -1,6 +1,9 @@
 1:"$Sreact.fragment"
-2:I[31621,["/_next/static/chunks/df9ed4ab261ef25e.js","/_next/static/chunks/1ad0b4d78167b7b8.js","/_next/static/chunks/b7dc1ac8ec8d547b.js","/_next/static/chunks/b941031e6aa494ce.js"],"App"]
-3:I[97367,["/_next/static/chunks/2f236954d6a65e12.js"],"OutletBoundary"]
-4:"$Sreact.suspense"
-0:{"buildId":"huWdWDkeguBAIEoFcHJcJ","rsc":["$","$1","c",{"children":[["$","$L2",null,{}],[["$","script","script-0",{"src":"/_next/static/chunks/b941031e6aa494ce.js","async":true}]],["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
-5:null
+2:I[31123,["/_next/static/chunks/df9ed4ab261ef25e.js","/_next/static/chunks/ec67f231a4d0793b.js","/_next/static/chunks/b7dc1ac8ec8d547b.js","/_next/static/chunks/ad38046d128f0449.js"],"HashRedirect"]
+3:I[81331,["/_next/static/chunks/df9ed4ab261ef25e.js","/_next/static/chunks/ec67f231a4d0793b.js","/_next/static/chunks/b7dc1ac8ec8d547b.js","/_next/static/chunks/ad38046d128f0449.js"],"Nav"]
+4:I[45773,["/_next/static/chunks/df9ed4ab261ef25e.js","/_next/static/chunks/ec67f231a4d0793b.js","/_next/static/chunks/b7dc1ac8ec8d547b.js","/_next/static/chunks/ad38046d128f0449.js"],"Home"]
+5:I[53296,["/_next/static/chunks/df9ed4ab261ef25e.js","/_next/static/chunks/ec67f231a4d0793b.js","/_next/static/chunks/b7dc1ac8ec8d547b.js","/_next/static/chunks/ad38046d128f0449.js"],"Footer"]
+6:I[97367,["/_next/static/chunks/ff1a16fafef87110.js","/_next/static/chunks/d2be314c3ece3fbe.js"],"OutletBoundary"]
+7:"$Sreact.suspense"
+0:{"buildId":"NcsCxcpEZDr3iPiVF3kCx","rsc":["$","$1","c",{"children":[[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@graph\":[{\"@type\":\"WebSite\",\"@id\":\"https://fileforge.pages.dev/#website\",\"url\":\"https://fileforge.pages.dev/\",\"name\":\"FileForge\",\"description\":\"Free private file tools: convert, compress, trim and merge PDF, image, video and audio files entirely in your browser.\",\"inLanguage\":\"en\"},{\"@type\":\"Organization\",\"@id\":\"https://fileforge.pages.dev/#org\",\"name\":\"FileForge\",\"url\":\"https://fileforge.pages.dev/\"}]}"}}],["$","$L2",null,{}],["$","div",null,{"className":"flex min-h-screen flex-col bg-white text-[#171a20]","children":[["$","$L3",null,{"onHome":true}],["$","main",null,{"className":"flex-1","children":["$","$L4",null,{}]}],["$","$L5",null,{}]]}]],[["$","script","script-0",{"src":"/_next/static/chunks/ad38046d128f0449.js","async":true}]],["$","$L6",null,{"children":["$","$7",null,{"name":"Next.MetadataOutlet","children":"$@8"}]}]]}],"loading":null,"isPartial":false}
+8:null

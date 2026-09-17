@@ -1,0 +1,4 @@
+User-Agent: *
+Allow: /
+
+Sitemap: https://aqilkrishna4-del.github.io/fileforge/sitemap.xml
